@@ -1,12 +1,13 @@
 ## Olá eu sou Ismael Sousa !!
+<ul>
+  <li>-💰 Buscando sempre aprender...</li>
+  <li>-🚀 Foguete não tem Ré...</li>
+  <li>-💡 Com novas ideias...</li>
+  <li>-🌇 Morando na melhor cidade...</li>
+  <li>-🎓 Estudando atualmente Javascript...
+</ul>
 
--💰 Buscando sempre aprender...<br>
--🚀 Foguete não tem Ré...<br>
--💡 Com novas ideias...<br>
--🌇 Morando na melhor cidade...<br>
--🎓 Estudando atualmente Javascript...<br>
-
-<img align="right" alt="Isma" height="200" width="200" src="https://media.discordapp.net/attachments/969735059378679820/969739951400943616/gif_perfil_mael.gif?width=960&height=540">
+<img align="center" alt="Isma" height="200" width="200" src="https://media.discordapp.net/attachments/969735059378679820/969739951400943616/gif_perfil_mael.gif?width=960&height=540">
 
 <div align="">
   <a href="https://github.com/Ismael-cyber">
