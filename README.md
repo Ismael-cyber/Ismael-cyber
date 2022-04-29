@@ -1,4 +1,13 @@
 ## Olá eu sou Ismael Sousa !!
+
+-💰 Buscando sempre aprender...<br>
+-🚀 Foguete não tem Ré...<br>
+-💡 Com novas ideias...<br>
+-🌇 Morando na melhor cidade...<br>
+-🎓 Estudando atualmente Javascript...<br>
+
+<img align="right" alt="Isma" height="200" width="200" src="https://media.discordapp.net/attachments/969735059378679820/969739951400943616/gif_perfil_mael.gif?width=960&height=540">
+
 <div align="">
   <a href="https://github.com/Ismael-cyber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ismael-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
