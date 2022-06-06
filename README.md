@@ -6,16 +6,16 @@
   <li>-🚀 Foguete não tem Ré...</li>
   <li>-💡 Com novas ideias...</li>
   <li>-🌇 Morando na melhor cidade...</li>
-  <li>-🎓 Estudando atualmente Javascript...
+  <li>-🎓 Estudando atualmente Javascript...</li>
 </ul>
 </div>  
 
-<img style="display: inline-block" alt="Isma" height="175em" src="https://media.discordapp.net/attachments/969735059378679820/969739951400943616/gif_perfil_mael.gif?width=960&height=540">
+<img style="display: inline-block; float: right" alt="Isma" height="170em" src="https://media.discordapp.net/attachments/969735059378679820/969739951400943616/gif_perfil_mael.gif?width=960&height=540">
 
-<div align="">
+<div style="display: inline_block" align="">
   <a href="https://github.com/Ismael-cyber">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ismael-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-cyber&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ismael-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-cyber&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Isma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
