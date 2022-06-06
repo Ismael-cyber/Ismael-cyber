@@ -1,6 +1,6 @@
 ## Olá eu sou Ismael Sousa !!
 
-<div height="200" width="200">
+<div style="display: inline_block">
 <ul>
   <li>-💰 Buscando sempre aprender...</li>
   <li>-🚀 Foguete não tem Ré...</li>
@@ -10,7 +10,7 @@
 </ul>
 </div>  
 
-<img align="right" alt="Isma" height="200" width="200" src="https://media.discordapp.net/attachments/969735059378679820/969739951400943616/gif_perfil_mael.gif?width=960&height=540">
+<img style="display: inline-block" alt="Isma" height="175em" src="https://media.discordapp.net/attachments/969735059378679820/969739951400943616/gif_perfil_mael.gif?width=960&height=540">
 
 <div align="">
   <a href="https://github.com/Ismael-cyber">
