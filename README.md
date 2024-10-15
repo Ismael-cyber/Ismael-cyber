@@ -3,7 +3,7 @@
 <div>
 <ul>
   <li>-💰 Buscando sempre aprender...</li>
-  <li>-🚀 Foguete não tem Ré...</li>
+  <li>-🚀 Foguete não tem Ré(Agora tem...)</li>
   <li>-💡 Com novas ideias...</li>
   <li>-🌇 Morando na melhor cidade...</li>
   <li>-🎓 Estudando atualmente Javascript...</li>
